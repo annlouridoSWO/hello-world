@@ -11,7 +11,7 @@ ABOUT ME
 -->
 
 - ![empleado (1)](https://user-images.githubusercontent.com/49305448/122732412-89867480-d27c-11eb-9e68-bc4825fc4778.png)I’m currently developing a personal finance application 
-- ![libro](https://user-images.githubusercontent.com/49305448/122732498-a327bc00-d27c-11eb-9d19-36385831712c.png) I’m currently learning Node.js and React JS![physics (1)](https://user-images.githubusercontent.com/49305448/122733127-2f39e380-d27d-11eb-91fe-4189d75d58ee.png)
+- ![libro](https://user-images.githubusercontent.com/49305448/122732498-a327bc00-d27c-11eb-9d19-36385831712c.png) I’m currently learning C#, Node.js and React JS![physics (1)](https://user-images.githubusercontent.com/49305448/122733127-2f39e380-d27d-11eb-91fe-4189d75d58ee.png)
 
 - ![unido](https://user-images.githubusercontent.com/49305448/122734134-1bdb4800-d27e-11eb-9e35-f5a4f192df67.png)
 I am looking to collaborate on any interesting project
