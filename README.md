@@ -4,7 +4,7 @@ COVER LETTER
 -->
 [![Linkedin: Ann Jolie](https://img.shields.io/badge/-Ann_Jolie-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ann-jolie-lourido-9a93a3a9)](https://www.linkedin.com/in/ann-jolie-lourido-9a93a3a9)<br>
 I am a **psychologist** who fell in love with programming, so I decided to do the **Higher Technical Certificate in Web Application Development**, so, I understand both worlds, the user's mind and the language of machines.
-![----------------------------------------------------](https://github.com/annlouridoSWO/annlouridoSWO/blob/main/assets/colorhr.png)
+![----------------------------------------------------](https://github.com/annlouridoSWO/annlouridoSWO/blob/readme-edits/assets/colorhr.png)
 
 <!--
 ABOUT ME
